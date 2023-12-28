@@ -8,9 +8,8 @@ This repository contains a collection of projects where I have analyzed and visu
 
 ### Tableau 
 
-### Python 
-Amazon Sales Exploratory Data Analysis Project
-Read the Project in Markdown: [HERE](https://github.com/yanneskly/Data-Analysis-Projects/blob/4d583cc4e407cb975f045e57032800bc69ce0015/Python-AmazonSalesEDA%26Cleaning.ipynb.ipynb)
+### Python  
+1. Amazon Sales Exploratory Data Analysis Project: [HERE](https://github.com/yanneskly/Data-Analysis-Projects/blob/4d583cc4e407cb975f045e57032800bc69ce0015/Python-AmazonSalesEDA%26Cleaning.ipynb.ipynb)  
 ### SQL
 
 ### Excel
