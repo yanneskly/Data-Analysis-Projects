@@ -4,7 +4,6 @@ This repository contains a collection of projects where I have analyzed and visu
 
 ### View My Personal Website: [HERE!](http://www.yannes8.wordpress.com)
 
-## Skills  
 ### Tableau  
 - Spotify User Behavior Data Analysis Dashboard: [HERE](https://public.tableau.com/views/SpotifyUserBahaviour/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ### Python  
