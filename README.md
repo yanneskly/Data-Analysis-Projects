@@ -10,7 +10,7 @@ This repository contains a collection of projects where I have analyzed and visu
 ### Python  
 - Amazon Sales Exploratory Data Analysis Project: [HERE](https://github.com/yanneskly/Data-Analysis-Projects/blob/4d583cc4e407cb975f045e57032800bc69ce0015/Python-AmazonSalesEDA%26Cleaning.ipynb.ipynb)  
 ### SQL
-
+- Ordering System Database & SQL Queries: [HERE](https://github.com/yanneskly/Data-Analysis-Projects/blob/3503eb71d6b9b6b33cf6bf3c6957bf12be4641c7/SQL-Database%26Queries.ipynb)
 ### Excel
 
 
