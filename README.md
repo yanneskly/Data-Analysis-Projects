@@ -2,8 +2,8 @@
 Welcome to my Data Analysis Projects repository! 
 This repository contains a collection of projects where I have analyzed and visualized various datasets to derive insights.
 
-### View My Personal Website: [HERE📝](http://www.yannes8.wordpress.com)
-### Visit My Blog: [HERE](yannes8.wordpress.com/blog-2)
+### Website: [HERE🥳](http://www.yannes8.wordpress.com)
+### Blog: [HERE📝](yannes8.wordpress.com/blog-2)
 
 ### Excel 
 - Blog Post: [Excel: Days Calculation 🚀](https://yannes8.wordpress.com/2024/02/05/excel-tips-days-calculation-%f0%9f%9a%80/)
