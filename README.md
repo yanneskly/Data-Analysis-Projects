@@ -2,8 +2,8 @@
 Welcome to my Data Analysis Projects repository! 
 This repository contains a collection of projects where I have analyzed and visualized various datasets to derive insights.
 
-### Website: [HERE🥳](http://www.yannes8.wordpress.com)
-### Blog: [HERE📝](yannes8.wordpress.com/blog-2)
+### Website: [HERE🥳](https://www.yannes8.wordpress.com)
+### Blog: [HERE📝](https://yannes8.wordpress.com/blog-2)
 ### AI Projects:[HERE🤖](https://github.com/yanneskly/AI-Projects)
 
 ### Excel 
