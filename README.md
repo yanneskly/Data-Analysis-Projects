@@ -15,7 +15,7 @@ This repository contains a collection of projects where I have analyzed and visu
 ### Python 
 📚Libraries used: Pandas, NumPy, Matplotlib, Seaborn, NLTK and Wordcloud.
 - Amazon Sales Exploratory Data Analysis(EDA) Project: [HERE](https://github.com/yanneskly/Data-Analysis-Projects/blob/4d583cc4e407cb975f045e57032800bc69ce0015/Python-AmazonSalesEDA%26Cleaning.ipynb.ipynb)
-- Fake News Dectation AI Project - EDA, Data Cleaning : [HERE](https://github.com/yanneskly/AI-Projects/blob/88110bde5834331b5d87bc8048f3005890f4aceb/FakeNewsDetection_EDA%26Cleaning.ipynb)
+- Fake News Dectation AI Project - EDA, Data Cleaning and Preprocessing : [HERE](https://github.com/yanneskly/AI-Projects/blob/88110bde5834331b5d87bc8048f3005890f4aceb/FakeNewsDetection_EDA%26Cleaning.ipynb)
 ### SQL
 - Ordering System Database & SQL Queries: [HERE](https://github.com/yanneskly/Data-Analysis-Projects/blob/3503eb71d6b9b6b33cf6bf3c6957bf12be4641c7/SQL-Database%26Queries.ipynb)
 
