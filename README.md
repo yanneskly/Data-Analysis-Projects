@@ -7,6 +7,8 @@ This repository contains a collection of projects where I have analyzed and visu
 ### AI Projects:[HERE🤖](https://github.com/yanneskly/AI-Projects)
 
 ### Excel 
+📚Skills used: PivotTable, AVERAGE, ROUND, VLOOKUP, COUNTIF, SUMIF, OFFSET and Charts. 
+- Blog Post: [Excel: Data Analysis with Healthcare Data🧪](https://yannes8.wordpress.com/2024/02/12/excel-data-analysis-with-healthcare-data%f0%9f%a7%aa/)
 - Blog Post: [Excel: Days Calculation 🚀](https://yannes8.wordpress.com/2024/02/05/excel-tips-days-calculation-%f0%9f%9a%80/)
 - Blog Post: [Excel: How to Identify Dependent Cells](https://yannes8.wordpress.com/2024/02/05/excel-how-to-identify-dependent-cells/)
 - Blog Post: [Excel: Extracting Data with LEFT and LEN() functions 📊](https://yannes8.wordpress.com/2024/02/08/excel-extracting-data-with-left-and-len-functions-%f0%9f%93%8a/)
