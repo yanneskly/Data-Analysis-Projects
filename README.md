@@ -1,5 +1,5 @@
 # Data Analysis Projects📊
-Welcome to my Data Analysis Projects repository! 
+Hi! I'm Yannes. Welcome to my Data Analysis Projects repository! 
 This repository contains a collection of projects where I have analyzed and visualized various datasets to derive insights.
 
 ### Website: [HERE🥳](https://www.yannes8.wordpress.com)
