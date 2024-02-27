@@ -1,16 +1,17 @@
 # Data Analysis Projects📊
-Hi! I'm Yannes. Welcome to my Data Analysis Projects repository! 
-Here you can find my personal project on learning Excel, Tableau, Python, SQL, and R. 
+Hi! I'm Yannes. Welcome to my Data Analysis Projects repository!<br>
+<br>
+Here you can explore my personal projects covering Excel, Tableau, Python, SQL, and R.
 - Website: [HERE🥳](https://www.yannes8.wordpress.com)
 - Blog: [HERE📝](https://yannes8.wordpress.com/blog-2)
 - AI Projects:[HERE🤖](https://github.com/yanneskly/AI-Projects)
 
 ### Excel 
 📚Skills used: PivotTable, AVERAGE, ROUND, VLOOKUP, COUNTIF, SUMIF, OFFSET, LEFT, RIGHT, LEN and Charts. 
-- Blog Post: [Excel: Data Analysis with Healthcare Data🧪](https://yannes8.wordpress.com/2024/02/12/excel-data-analysis-with-healthcare-data%f0%9f%a7%aa/)
-- Blog Post: [Excel: Days Calculation 🚀](https://yannes8.wordpress.com/2024/02/05/excel-tips-days-calculation-%f0%9f%9a%80/)
-- Blog Post: [Excel: How to Identify Dependent Cells](https://yannes8.wordpress.com/2024/02/05/excel-how-to-identify-dependent-cells/)
-- Blog Post: [Excel: Extracting Data with LEFT and LEN() functions 📊](https://yannes8.wordpress.com/2024/02/08/excel-extracting-data-with-left-and-len-functions-%f0%9f%93%8a/)
+- Blog Post 1 : [Excel: Data Analysis with Healthcare Data🧪](https://yannes8.wordpress.com/2024/02/12/excel-data-analysis-with-healthcare-data%f0%9f%a7%aa/)
+- Blog Post 2: [Excel: Days Calculation 🚀](https://yannes8.wordpress.com/2024/02/05/excel-tips-days-calculation-%f0%9f%9a%80/)
+- Blog Post 3 : [Excel: How to Identify Dependent Cells](https://yannes8.wordpress.com/2024/02/05/excel-how-to-identify-dependent-cells/)
+- Blog Post 4: [Excel: Extracting Data with LEFT and LEN() functions 📊](https://yannes8.wordpress.com/2024/02/08/excel-extracting-data-with-left-and-len-functions-%f0%9f%93%8a/)
 ### Tableau  
 - Spotify User Behavior Data Analysis Dashboard: [HERE](https://public.tableau.com/views/SpotifyUserBahaviour/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 - Amazon Sales Data Analysis Dashboard: [HERE](https://public.tableau.com/views/AmazonSales_17037846440290/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
