@@ -24,5 +24,5 @@ Here you can explore my personal projects covering Excel, Python, SQL, R and Tab
 ### Tableau  
 - Spotify User Behavior Data Analysis Dashboard: [HERE](https://public.tableau.com/views/SpotifyUserBahaviour/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 - Amazon Sales Data Analysis Dashboard: [HERE](https://public.tableau.com/views/AmazonSales_17037846440290/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
-- House Sales Dashboard
+- House Sales Dashboard:
 ![Dashboard](https://github.com/yanneskly/Data-Analysis-Projects/blob/2f104f75f80259a8981fd6de57ccce590f51e692/img/HouseSalesDashboard.png)
