@@ -2,6 +2,7 @@
 
 # In this project, we will be focusing on Data manipulation, Visualization and Statistical Analysis.
 # Skills/ Package used: ggplot, t-test, mean, Hmisc
+
 # Claim 1: People with a higher BMI are more likely to have diabetes compared to those with a lower BMI.
 # Claim 2: Older people are more likely to have diabetes
 
