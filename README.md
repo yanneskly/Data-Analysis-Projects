@@ -16,7 +16,7 @@ Here you can explore my personal projects covering Excel, Tableau, Python, SQL, 
 - Spotify User Behavior Data Analysis Dashboard: [HERE](https://public.tableau.com/views/SpotifyUserBahaviour/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 - Amazon Sales Data Analysis Dashboard: [HERE](https://public.tableau.com/views/AmazonSales_17037846440290/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 - House Sales Dashboard
-![Dashboard]([img/HouseSalesDashboard.png](https://github.com/yanneskly/Data-Analysis-Projects/blob/2f104f75f80259a8981fd6de57ccce590f51e692/img/HouseSalesDashboard.png)
+![Dashboard](https://github.com/yanneskly/Data-Analysis-Projects/blob/2f104f75f80259a8981fd6de57ccce590f51e692/img/HouseSalesDashboard.png)
 ### Python 
 📚Libraries used: Pandas, NumPy, Matplotlib, Seaborn, NLTK and Wordcloud.
 - Amazon Sales Exploratory Data Analysis(EDA) Project: [HERE](https://github.com/yanneskly/Data-Analysis-Projects/blob/4d583cc4e407cb975f045e57032800bc69ce0015/Python-AmazonSalesEDA%26Cleaning.ipynb.ipynb)
