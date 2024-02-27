@@ -1,6 +1,6 @@
 # Data Analysis Projects📊
-Hi! I'm Yannes. Welcome to my Data Analysis Projects repository!<br>
-<br>
+Hi! I'm Yannes. Welcome to my Data Analysis Projects repository!
+
 Here you can explore my personal projects covering Excel, Tableau, Python, SQL, and R.
 - Website: [HERE🥳](https://www.yannes8.wordpress.com)
 - Blog: [HERE📝](https://yannes8.wordpress.com/blog-2)
