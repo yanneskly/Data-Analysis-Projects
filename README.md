@@ -1,6 +1,6 @@
 # Data Analysis Projects📊
 Hi! I'm Yannes. Welcome to my Data Analysis Projects repository! 
-This repository contains a collection of projects where I have analyzed and visualized various datasets to derive insights.
+Here you can find my personal project on learning Excel, Tableau, Python, SQL, and R. 
 - Website: [HERE🥳](https://www.yannes8.wordpress.com)
 - Blog: [HERE📝](https://yannes8.wordpress.com/blog-2)
 - AI Projects:[HERE🤖](https://github.com/yanneskly/AI-Projects)
@@ -20,6 +20,7 @@ This repository contains a collection of projects where I have analyzed and visu
 - Fake News Dectation AI Project - EDA, Data Cleaning and Preprocessing : [HERE](https://github.com/yanneskly/AI-Projects/blob/88110bde5834331b5d87bc8048f3005890f4aceb/FakeNewsDetection_EDA%26Cleaning.ipynb)
 ### SQL
 - Ordering System Database & SQL Queries: [HERE](https://github.com/yanneskly/Data-Analysis-Projects/blob/3503eb71d6b9b6b33cf6bf3c6957bf12be4641c7/SQL-Database%26Queries.ipynb)
-
-
+### R 
+📚Skills & Packages: T-test, gglot, t-test, mean, Hmisc
+- Statistical Analysis & Visualization with R on Diabetes Dataset: [HERE](https://github.com/yanneskly/Data-Analysis-Projects/blob/482e1ab3cb4cd877dc8430f75e8d78442b96fe64/R_Diabetes_Project.R)
 
